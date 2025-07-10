@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Random quotes</string>
+    <string name="quote_here">Quote here</string>
+</resources>
